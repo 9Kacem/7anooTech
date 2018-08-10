@@ -5,7 +5,7 @@ This project is one of ESI Sidi Bel Abbes 2nd year projects; It consists of crea
 
 _Screenshots can be found here:_ https://github.com/9Kacem/7anooTech/blob/master/7anooTechScreenShots/README.md
 
-## Installaion:
+## Installation:
 - This project is built on Laravel, so make sure that you already have [PHP (>=7.1.3)](http://php.net/manual/en/install.php) and [Composer](https://getcomposer.org/download) installed.
 
 - Edit `/etc/php/php.ini` and uncomment	`extension=mysqli.so` and `extension=pdo_mysql.so`
